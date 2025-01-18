@@ -283,7 +283,7 @@ class MultipleLite:
     def welcome(self):
         welcome_message = f"""
 {Fore.GREEN + Style.BRIGHT}自动PING {Fore.BLUE + Style.BRIGHT}Multiple Lite 节点 - 机器人
-{Fore.GREEN + Style.BRIGHT}Rey? {Fore.YELLOW + Style.BRIGHT}<INI WATERMARK>
+{Fore.GREEN + Style.BRIGHT}加入我们： {Fore.YELLOW + Style.BRIGHT}电报频道：https://t.me/ksqxszq
 """
         print(welcome_message)
 
