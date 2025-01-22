@@ -1,0 +1,8 @@
+aiohttp
+aiohttp-socks
+eth-account
+fake-useragent
+colorama
+halo
+pytz
+logging
