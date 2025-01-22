@@ -34,8 +34,8 @@ pip install asyncio aiohttp aiohttp-socks eth-account fake-useragent pytz colora
 ## 安装步骤
 ### 克隆项目仓库
 ```bash
-git clone https://github.com/your-username/MultipleLiteBot.git
-cd MultipleLiteBot
+git clone https://github.com/ziqing888/multiplenode.git
+cd multiplenode
 ```
 ### 安装依赖
 使用以下命令安装依赖：
