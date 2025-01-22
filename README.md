@@ -56,6 +56,6 @@ socks5://proxy2.example.com:port
 ```
 ### 运行程序
 ```bash
-python3 main.py
+python3 bot.py
 ```
 程序运行后，会实时输出每个账户的状态，包括 PING 成功次数、节点在线状态和累计运行时间。
